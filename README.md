@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hallå och välkommen! 👋
 
-<!--
-**Kiim94/Kiim94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag heter Moa och denna GitHub profil är för mina studier på MittUniversitetet! Ganska grön för tillfället, men det hoppas jag kunna ändra på i framtiden! 
 
-Here are some ideas to get you started:
+ ## 📚 Vad jag lär mig just nu/vill bli bättre på:
+JavaScript HTML5 CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Vilka verktyg använder jag:
+
+Visual Studio Code FileZilla GitHub
+
+## 🤕Huvudvärk just nu:
+Att lista ut GitHub och Git samt att kunna använda dessa med Visual Studio Code
+
+## Då jag inte studerar eller kodar så gör jag detta:
+- Spelar spel, gärna rpg eller cozy spel
+- Läser böcker/anime/fanfic/light novels
+- Tittar på film/serier/anime
+- Pysslar/Bygger/skapar
+- ~~Får existentiell fruktan~~
