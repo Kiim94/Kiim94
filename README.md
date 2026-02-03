@@ -7,10 +7,10 @@ JavaScript
 
 ## 🧰 Vilka verktyg använder jag:
 
--Visual Studio Code 
--FileZilla 
--GitHub
--PhotoPea
+- Visual Studio Code 
+- FileZilla 
+- GitHub
+- PhotoPea
 
 ## 🤕Huvudvärk just nu:
 Node.Js och vite
