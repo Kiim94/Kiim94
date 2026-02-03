@@ -2,15 +2,18 @@
 
 Jag heter Moa och denna GitHub profil är för mina studier på MittUniversitetet! Ganska grön för tillfället, men det hoppas jag kunna ändra på i framtiden! 
 
- ## 📚 Vad jag lär mig just nu/vill bli bättre på:
-JavaScript HTML5 CSS
+ ## 📚 Vad jag vill bli bättre på:
+JavaScript
 
 ## 🧰 Vilka verktyg använder jag:
 
-Visual Studio Code FileZilla GitHub
+-Visual Studio Code 
+-FileZilla 
+-GitHub
+-PhotoPea
 
 ## 🤕Huvudvärk just nu:
-Att lista ut GitHub och Git samt att kunna använda dessa med Visual Studio Code
+Node.Js och vite
 
 ## 🎮Då jag inte studerar eller kodar så gör jag detta:
 - Spelar spel, gärna rpg eller cozy spel
