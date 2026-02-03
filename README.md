@@ -17,7 +17,7 @@ Node.Js och vite
 
 ## 🎮Då jag inte studerar eller kodar så gör jag detta:
 - Spelar spel, gärna rpg eller cozy spel
-- Läser böcker/anime/fanfic/light novels
+- Läser böcker/manga/fanfic/light novels
 - Tittar på film/serier/anime
 - Pysslar/Bygger/skapar
 - ~~Får existentiell fruktan~~
